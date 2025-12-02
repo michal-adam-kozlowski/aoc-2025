@@ -5,7 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "day1part1": "node day01/part1.js",
-    "day1part2": "node day01/part2.js"
+    "day1part2": "node day01/part2.js",
+     "day2part1": "node day02/part1.js",
+       "day2part2": "node day02/part2.js"
   },
   "keywords": [],
   "author": "",
