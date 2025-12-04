@@ -9,7 +9,9 @@
     "day2part1": "node day02/part1.js",
     "day2part2": "node day02/part2.js",
     "day3part1": "node day03/part1.js",
-    "day3part2": "node day03/part2.js"
+    "day3part2": "node day03/part2.js",
+    "day4part1": "node day04/part1.js",
+    "day4part2": "node day04/part2.js"
   },
   "keywords": [],
   "author": "",
